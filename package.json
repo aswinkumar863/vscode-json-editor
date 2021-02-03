@@ -32,10 +32,7 @@
             "command": "vscode-json-editor.start",
             "title": "Start JSON Tree Editor session",
             "category": "JSON Tree Editor",
-            "icon": {
-                "light": "./resources/json-light.svg",
-                "dark": "./resources/json-dark.svg"
-            }
+            "icon": "$(json)"
         }],
         "menus": {
             "explorer/context": [{
